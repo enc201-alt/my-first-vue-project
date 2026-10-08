@@ -1,5 +1,5 @@
 <script setup>
-import { useFlash } from '@/composables/useFlash.js';
+import { useFlash } from '@/composables/useStorage.js';
 
 let { flash } = useFlash();
 </script>
